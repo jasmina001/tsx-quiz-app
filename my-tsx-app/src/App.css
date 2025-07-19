@@ -59,10 +59,7 @@ body {
   transition: background-color 0.3s ease;
 }
 
-.send-btn:hover {
-  background-color: #357abd;
-}
-
+/* 
 .submitted-answer {
   margin-top: 12px;
   padding: 12px;
